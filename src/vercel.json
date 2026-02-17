@@ -1,3 +1,3 @@
 {
-    "rou"
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
 }
